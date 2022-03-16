@@ -1,0 +1,15 @@
+C:\Users\rafae\ESex3\bin\Debug\net6.0\ESex3.exe
+C:\Users\rafae\ESex3\bin\Debug\net6.0\ESex3.deps.json
+C:\Users\rafae\ESex3\bin\Debug\net6.0\ESex3.runtimeconfig.json
+C:\Users\rafae\ESex3\bin\Debug\net6.0\ESex3.dll
+C:\Users\rafae\ESex3\bin\Debug\net6.0\ESex3.pdb
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.csproj.AssemblyReference.cache
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.AssemblyInfoInputs.cache
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.AssemblyInfo.cs
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.csproj.CoreCompileInputs.cache
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.dll
+C:\Users\rafae\ESex3\obj\Debug\net6.0\refint\ESex3.dll
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.pdb
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ESex3.genruntimeconfig.cache
+C:\Users\rafae\ESex3\obj\Debug\net6.0\ref\ESex3.dll
